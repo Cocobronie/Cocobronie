@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👧 平平无奇大三学生
 - 📰 Blog：https://cocobronie.cn/
-- 📓 Note：https://cocolib.cocobronie.cn/
+- 📓 Note：https://cocobronie.cn/cocoLib/
 <!-- - 👨‍💻 经历：<a href="https://www.bilibili.com/read/cv11481506" target="_blank">关于我，19 线程序员小 UP</a> -->
 <!-- - 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/sql-father-frontend-public" target="_blank">SQL之父</a> | <a href="https://github.com/liyupi/yuindex" target="_blank">极客范主页</a> | <a href="https://github.com/liyupi/sql-generator" target="_blank">SQL生成器</a> | <a href="https://github.com/liyupi/mianshiya" target="_blank">面试鸭</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a> -->
 <!-- - 🌱 干货：<a href="https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png" target="_blank">公众号『 程序员鱼皮 』</a>
